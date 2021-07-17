@@ -1,0 +1,1 @@
+Normal progressBar som devos!
